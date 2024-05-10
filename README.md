@@ -1,1 +1,72 @@
-hi
+1. As a new team, we were given Overdraft Text as a project to be built from scratch. Have been secondary developer and assisted with all roadblocks we have faced in the delivery of the Project. Since I was new to the organization it was a very good learning exposure since it helped me understand the data terminologies and process intricacies including Data Access's from the basics. Also at the same time it provided a better understanding of OD as a product.
+
+2. Have been assigned as Primary developer in upcoming Email Collections segment of Pay-in-4 project. It is new product which is being launched by JPMC and involves critical time bound deliveries. Since the product is new to the org, have been involved in Data requirement to Data onboarding in ICDW UAT and Prod giving better knowledge about the data structures and process around new table creation data warehouse.
+
+3. Have been incorporated as a part of BAR team(Functional ID) to help in their deliverables in terms of IRM requests for new builds as well as modifications to help clear Back logs if any.
+
+4. Have started working on putty and python as an added skill during my tenure here to be able to take up future projects which may require the skills.
+
+
+
+
+1. As part of Overdraft Text Project, we have interacted with Risk and Controls team to validate our code and output data to ensure adherence to all Audit and Compliance mandates.
+
+2. Working closely with BAR team to ensure Separation of Duties in development of Pay-in-4 project.
+
+3. Currently working on self-initiated Customer Contact Lifecycle as an add-on project. It will enable us to assess the impact of our current campaigns for OD Collections via email and later can be scaled up to different campaigns.
+
+
+
+1. Have completed several self-paced AWS Cloud trainings assigned to us to make us Future ready.
+
+2. Have attended several EMERGE/ABODE sessions for soft skills and other self development aspects.
+
+3. Participated in AWS Deepracer with the team and managed to Learn Reinforcement Learning and Python during the event. Knowledge of ML and applications were zero at the beginning of the event and have led to much deeper understanding of the subject by the end of it wherein as a team we secured 1st position in Mumbai & 11th position Globally in JPMC.
+
+4. Have participated in Analytics Buddy program by Emerge and completed the Basic program which if the first step in the program. We had to undergo rigorous trainings for Python, Statistics and at the end given a Use-case to develop and build. We managed to break down the data and using Model development and training come out with deep insights into Customer behaviour which is in line with the Business understanding.
+
+5. Have participated in CSR events like assisting students in filling up their College admission forms, Creating Study material for NGO.
+
+
+As a new employee to the company I have had loads to learn from every facet of the company/team. There is for sure plenty more yet to explore and learn. I have assisted in delivery of a project in Production and have another project in pipeline on which we have already started working. Delivery of project required understanding of requirement, several rounds of testing, data validation, Co-ordination with different teams like Product, Risk & Controls for the same. This required lot of patience and thorough understanding of the task at hand.
+
+Learning from this Project would help in better delivery of future projects and the Cycle of Learning would continue for further improvement.
+
+Apart from day to day work have been part of other pillars of DACC.
+
+1. Have been recognized as EMERE Induction winner.
+
+2. Received 5 Keys award Under the pillar: Do the Right Thing and Build Lasting Relationships.
+
+3. As Vice Captain of nGage team Daccstar have actively participated and motivated team to participate in nGage events.
+
+4. Have participated in CSR events like assisting students in filling up their College admission forms, Creating Study material for NGO.
+
+2024
+
+Summary
+
+This year has been marked by active involvement in various key initiatives. Over the course of the year, I have been involved in diverse set of responsibilities, which includes successfully completing 59 IRM requests to assist the Business achieve their Audit Readiness. I am playing an integral role in building of a Tableau Dashboard with Shannon to showcase Email responses across products, providing valuable insights, innovative ideas and leveraging strong visualization skills. The building of Pay-in-4 Emails project is a crucial activity from Collections perspective since it’s successful deployment would ensure meeting of company’s objectives in conforming to Regulatory and Compliance norms. My role in Coordination of AWS Training sessions and participation in CSR activities showcases a well-rounded involvement in both professional development and community engagement. Alongside these initiatives, I’ve maintained a consistent track record of completing trainings punctually and sustaining high office attendance, showcasing reliability and dedication to professional development and team commitment. Overall, this year has been characterized by a multifaceted engagement, demonstrating a proactive approach, a diverse skill set, and a strong commitment to both professional and community contributions. 
+Business results: 
+1.	A very important part of new product/process is the data discovery stage where the data quality, issues/challenges have to be understood for the data which is to be consumed for reporting/collection process. Have been involved  in deep research into the structure of all the tables created by GBP for Pay-in-4 and identify the sore spots. I’ve had been tasked with testing the data in both UAT and Prod environments due to data availability delays and quality issues.
+2.	Have identified issues with Days Past due calculation, Usage of Loan amount v/s Total Past Due, Multiple lines of entries(>4) against same account where max numbers should be 4. Through my research efforts and insights gained from data analysis, I’ve played a pivotal role in shaping and refining project requirements. This process required a keen eye for detail, analytical acumen and a comprehensive understanding of the data landscape. By keenly analyzing data, I’ve identified crucial patterns, foreseeing potential issues. This proactive approach has contributed to a more streamlined project execution, reducing the risk of future complications.
+3.	Through my dedicated contributions and inquisitive approach, I’ve played a pivotal role in refining requirements. Continually seeking clarity and deeper understanding, my thoughtful inquires prompted a more comprehensive exploration of project needs. By actively engaging in discussions, proposing insights, and asking pertinent questions, I feel I’ve influenced the process, ensuring that the project’s requirements were meticulously examined, refined, and aligned with our objectives. This collaborative effort led to a more precise and effective framework, significantly enhancing the project's overall success and alignment with business objectives.
+4.	In a collaborative effort with Raisy(Risk) & Brian(Controls), I’ve engaged in the development of a Pay-in-4 Email-Collections project. This encompassed not only the coding aspect but also involved aligning interpretations of the BRD with each member individually to ensure the code's strict compliance with all regulations and policies.
+5.	I’ve enhanced the business's progress reporting by implementing a method of breaking down our primary goal into smaller, more manageable objectives. This approach not only provided a clear roadmap for achieving our targets but also enabled more granular tracking and evaluation of our advancements. Through this strategic breakdown, we created a structured framework that allowed for more detailed and transparent reporting, giving stakeholders a clearer view of our progress at various stages. This method fostered a more agile and responsive approach, ensuring a more effective and informed decision-making process within the organization.
+6.	Throughout the year, I’ve successfully completed a diverse set of requirements for the business via 59 requests raised directly by them or on their behalf. This included 7 Ad hoc requests raised to provide a specific set of one time data dump. Since a few of them seemed to occur frequently, thanks to my recommendation, the team made the strategic choice to modify one of the reports to address forthcoming issues more rapidly. Additionally, as SPOC for Indian BAR team I played a key role in the migration of 30+ reports to a new database by engaging other team members and was able to guide and solve issues which occurred during migration, ensuring a seamless transition and enhanced data integrity.
+7.	I’ve on-boarded 16 inventories/reports inherited from another analyst to the BAR Team standards, identified and decommissioned 10 inventories, Combined 2 reports into 1 adhering to governance norms, Several changes were made to the remaining inventories to enhance their efficiency and usability for the team. One of the major changes was to remove the database dependencies of end user and transitioning it to excel output to ensure auditory compliance. To ensure  compliance to Separation of duties, reports were migrated from existing FID(chnlmgr) to BAR Team FID(SVCBPA). This provided a more streamlined process for execution and tracking of failures.
+  
+Client: 
+1.	In anticipation of business continuity, I am actively engaged in crafting an interim automation solution for Pay-in-4 to be implemented soon. This proactive measure is intended to ensure the continuity of the process during my absence, ensuring smooth continuation in case of data availability. By implementing this interim system, the aim is to maintain the integrity and efficiency of essential workflows addressing potential disruptions that might arise due to my temporary unavailability. The focus on foresight and forethought in this automation strategy underscores our commitment to anticipating and mitigating possible hurdles, thereby reinforcing the resilience and robustness of our operational framework.
+2.	I'm actively involved in building a Tableau Dashboard for reporting Email volumes with Customer responses, playing a pivotal role in its development from the ground up. In this capacity, I am contributing valuable insights and innovative ideas, leveraging my strong visualization skills. This project's output would directly feed into the Management Business Review initiatives. In this role, I’m not only conceptualizing and providing ideas but also actively transforming these concepts into visual representations, making complex ideas more accessible. By effectively utilizing these skills, I am trying to bridge the gap between abstract concepts and actionable plans, ensuring alignment with management's goals. This active engagement not only allows me to articulate and communicate ideas effectively but also supports the project in its journey from ideation to a fully realized outcome, serving as a catalyst for turning concepts into something more tangible.
+ 
+ 
+ 
+Teamwork:
+1.	Recognized for my consistent contributions and dedicated efforts, I’ve garnered several appreciations from my team, underscoring the positive impact of my work within our collaborative environment. Simultaneously, I’ve also taken the initiative to provide acknowledgements and appreciations to my colleagues, fostering a culture of mutual recognition and support. In a notable distinction I was honored with a Star Award in 2nd quarter Rewards and Recognition for my role in the DCM project, further validating the value and quality of my contributions. These acknowledgements not only affirm my commitment to excellence but also serve as a motivating force, propelling me to maintain the delivery of high-quality work and nurture a culture of success within the team.
+2.	I coordinated a series of AWS training sessions for DACC as a part of the EMERGE AWS Cloud pillar, showcasing my adept coordination skills in liaising with trainers and efficiently managing the nomination process for the participants. This endeavor highlighted my organizational finesse and ability to streamline complex processes, ensuring successful execution of the training sessions while meeting the needs and expectations of the participants.
+3.	I have successfully completed AWS Snowflake training which has significantly enhanced my understanding in cloud data warehousing and analytics. This training has equipped me with the skills to make data-driven decisions and manage large datasets. I am currently in the process of taking the necessary approvals to prepare data loads to AWS Snowflake within JPMC. This would also enable us to explore alternate approaches for PAY-in-4 project by being able to directly access AWS Data lakes which would streamline the process.
+4.	I played a key role as a valuable team member in the AWS Deepracer competition, contributing by providing strategic insights, logical analyses, and engaging in healthy debates. My participation involved leveraging problem-solving skills to offer innovative ideas and solutions, fostering a collaborative environment where diverse viewpoints were encouraged. This experience showcased my skills in critical thinking, collaboration, and the capacity to contribute meaningfully to discussions, successfully qualifying in the top 10 teams out of 50 in the Mumbai circuit during the first round. Despite facing disqualification in the second round, this experience was a teachable one which fostered a spirit of innovation, and incredible teamwork.
+5.	I actively participated in CSR initiatives by dedicating time to crafting eco-friendly paper bags and assembling food packets for NGOs. These activities were a fulfilling way for me to contribute to community welfare, supporting causes that focus on environmental sustainability and aiding those in need. By engaging in these initiatives, I not only demonstrated my commitment to social responsibility but also experienced the satisfaction of directly contributing to meaningful and impactful causes withing our community.
+6.	I am gearing up for an AWS Cloud certification, to acquire and in-depth understanding of AWS services and technologies. Through this endeavor I aim to expand my expertise in cloud computing and skills in utilizing AWS platforms effectively.
+7.	I have consistently completed all regulatory and compliance trainings on schedule and maintained my Work-from-office attendance higher than the mandate.
